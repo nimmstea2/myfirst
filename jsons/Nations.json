@@ -2,8 +2,8 @@
 	{
 		"name": "Toadfolk",
 		"leaderName": "Queen Katzina",
-		"adjective": ["Swamp"],
-		"startBias": ["Marsh"],
+		"adjective": ["Toad"],
+		"startBias": ["Marsh", "Hill"],
 		"preferredVictoryType": "cultural"
 		
 		"startIntroPart1": "We are the Toadfolk, protectors of the Marshrealm"
