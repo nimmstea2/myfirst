@@ -30,7 +30,7 @@
 		"outerColor": [0,155,0],
 		"innerColor": [2,20,2],
 		"uniqueName": "The 3 Citadels",
-		"uniques": ["Provides a [Castle] in your first [3] cities for free"],
+		"uniques": ["Provides a [Castle] in your first [3] cities for free","Provides a [Walls] in your first [3] cities for free"],
 		"cities": ["Citadel Civais", "Citadel Failon", "Citadel Waire", "Citadel Gruilia", "Torria", "Barrowwi", "Halsstori"]
 	}
 ]
