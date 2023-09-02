@@ -31,6 +31,39 @@
 		"innerColor": [2,20,2],
 		"uniqueName": "The 3 Citadels",
 		"uniques": ["Provides a [Castle] in your first [3] cities for free","Provides a [Walls] in your first [3] cities for free"],
-		"cities": ["Citadel Civais", "Citadel Failon", "Citadel Waire", "Citadel Gruilia", "Torria", "Barrowwi", "Halsstori"]
+		"cities": ["Citadel Civais", "Citadel Failon", "Citadel Waire", "Torria", "Barrowwi", "Halsstori"]
+	}
+	{
+		"name": "The Borderlanders",
+		"leaderName": "Mayor Slim Harken",
+		"adjective": ["Prarie"],
+		"preferredVictoryType": "cultural"
+		
+		"startIntroPart1": "We are the Borderlanders, the toughest folk you'll ever meet"
+		"startIntroPart2": "This is my second nation!",
+		
+		"declaringWar": "You can run, but you can't hide. Make your peace.",
+		"attacked": "If you climb in the saddle, be ready for the ride...",
+		"defeated": "You won't last long here. They never do.",
+		"introduction": "howdy, Partner!",
+		
+		"neutralHello": "welcome!",
+		"neutralLetsHearIt": ["Go on.","what sayeth you?","Please, proceed."],
+		"neutralNo": ["We absolutely refuse.","We will not take this.","I refuse."],
+		"neutralYes": ["Excelsior!.","It shall be done.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["Do you take us for fools?","Your offer dishonours us!","I beg your pardon?"],
+		"hateYes": ["That is acceptable, for now.","That will do for now.","It must be."],
+		
+		"afterPeace": "Peace at last.",
+		"tradeRequest": "We bestow you the honor of this trade offer, so that our works may grace your realm.",
+
+		"outerColor": [174,175,25],
+		"innerColor": [50,20,30],
+		"uniqueName": "Cultural Divide",
+		"uniques": ["[+20]% [Culture] [in all cities]","[-20]% [Culture] [in cities with at least [5] [Population]]"],
+		"cities": ["Dogtown", "Mount Clime", "Burned Tree", "Springton", "Anderstown", "Ranger's Point", "Docton"]
 	}
 ]
