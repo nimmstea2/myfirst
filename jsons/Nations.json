@@ -63,6 +63,7 @@
 		"outerColor": [174,175,25],
 		"innerColor": [50,20,30],
 		"uniqueName": "Cultural Divide",
+<<<<<<< HEAD
 		"uniques": ["[+20]% [Culture] [in all cities]","[-20]% [Culture] [in cities with at least [5] [Population]]"],
 		"cities": ["Dogtown", "Mount Clime", "Burned Tree", "Springton", "Anderstown", "Ranger's Point", "Docton"]
 	}
